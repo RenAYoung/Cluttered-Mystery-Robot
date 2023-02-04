@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3798d33b88b0dee4fbe3557b04d06c76
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/ClueClipboard.unity
+    guid: 21a82e8898e14ea429665d3428ea089a
+  - enabled: 0
+    path: Assets/Scenes/ClueRadio.unity
+    guid: 953056798faf95d4186091a0f65f39a1
+  - enabled: 0
+    path: Assets/Scenes/ClueKey.unity
+    guid: 1c861baf7ba171d46a9dc18c343d7dc3
+  - enabled: 0
+    path: Assets/Scenes/ClueLaptop.unity
+    guid: 18143e0838e873f41962051b89ea8ec0
+  - enabled: 0
+    path: Assets/Scenes/ClueChest.unity
+    guid: 35cd10f242c0a9c438435a0d653fa725
+  - enabled: 0
+    path: Assets/Scenes/ClueCrystal.unity
+    guid: 70b98e398fb65d94c9366241597c800a
+  m_configObjects: {}
